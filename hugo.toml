@@ -15,3 +15,6 @@ languageName = '繁體中文'
 weight = 1
 
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
