@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-TW'
+title = 'PEICSOC'
+theme = "reimu"
+
+
+
+
+
+
+defaultContentLanguage = 'zh-TW'
+[languages]
+[languages.zh-TW]
+languageName = '繁體中文'
+weight = 1
+
+
